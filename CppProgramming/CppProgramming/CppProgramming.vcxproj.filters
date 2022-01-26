@@ -25,7 +25,10 @@
     <Filter Include="소스 파일\4 - 1. 객체지향 프로그래밍">
       <UniqueIdentifier>{feac96bc-e030-4b0f-9833-2be8569c396e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\4 - 2. 함수의 오버로딩">
+    <Filter Include="소스 파일\4 - 3. 복사 생성자, 소멸자">
+      <UniqueIdentifier>{4bb3e1bb-4acf-478e-a87c-970bd6cd08d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4 - 2. 함수의 오버로딩, 생성자">
       <UniqueIdentifier>{088a8187-2a01-4ce8-a1be-46f4114e7f0f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -55,19 +58,31 @@
       <Filter>소스 파일\4 - 1. 객체지향 프로그래밍</Filter>
     </ClCompile>
     <ClCompile Include="함수의 오버로딩.cpp">
-      <Filter>소스 파일\4 - 2. 함수의 오버로딩</Filter>
+      <Filter>소스 파일\4 - 2. 함수의 오버로딩, 생성자</Filter>
     </ClCompile>
     <ClCompile Include="Date 클래스.cpp">
-      <Filter>소스 파일\4 - 2. 함수의 오버로딩</Filter>
+      <Filter>소스 파일\4 - 2. 함수의 오버로딩, 생성자</Filter>
     </ClCompile>
     <ClCompile Include="생성자.cpp">
-      <Filter>소스 파일\4 - 2. 함수의 오버로딩</Filter>
+      <Filter>소스 파일\4 - 2. 함수의 오버로딩, 생성자</Filter>
     </ClCompile>
     <ClCompile Include="디폴트 생성자.cpp">
-      <Filter>소스 파일\4 - 2. 함수의 오버로딩</Filter>
+      <Filter>소스 파일\4 - 2. 함수의 오버로딩, 생성자</Filter>
     </ClCompile>
     <ClCompile Include="생성자 오버로딩.cpp">
-      <Filter>소스 파일\4 - 2. 함수의 오버로딩</Filter>
+      <Filter>소스 파일\4 - 2. 함수의 오버로딩, 생성자</Filter>
+    </ClCompile>
+    <ClCompile Include="스타크래프트 만들기.cpp">
+      <Filter>소스 파일\4 - 3. 복사 생성자, 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="소멸자.cpp">
+      <Filter>소스 파일\4 - 3. 복사 생성자, 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="복사 생성자.cpp">
+      <Filter>소스 파일\4 - 3. 복사 생성자, 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="디폴트 복사 생성자의 한계.cpp">
+      <Filter>소스 파일\4 - 3. 복사 생성자, 소멸자</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
