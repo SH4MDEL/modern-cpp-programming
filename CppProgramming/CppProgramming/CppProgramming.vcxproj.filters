@@ -31,6 +31,12 @@
     <Filter Include="소스 파일\4 - 2. 함수의 오버로딩, 생성자">
       <UniqueIdentifier>{088a8187-2a01-4ce8-a1be-46f4114e7f0f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4 - 4. const, static">
+      <UniqueIdentifier>{ba6acbfb-ee00-4c35-8ea6-456e8013371f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4 - 5. 내가 만드는 String 클래스">
+      <UniqueIdentifier>{38a91133-0f36-4e3f-92f1-cf3a60361551}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -83,6 +89,24 @@
     </ClCompile>
     <ClCompile Include="디폴트 복사 생성자의 한계.cpp">
       <Filter>소스 파일\4 - 3. 복사 생성자, 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="생성자의 초기화 리스트(initializer list).cpp">
+      <Filter>소스 파일\4 - 4. const, static</Filter>
+    </ClCompile>
+    <ClCompile Include="생성된 총 Marine 수 세기(static).cpp">
+      <Filter>소스 파일\4 - 4. const, static</Filter>
+    </ClCompile>
+    <ClCompile Include="this.cpp">
+      <Filter>소스 파일\4 - 4. const, static</Filter>
+    </ClCompile>
+    <ClCompile Include="레퍼런스를 리턴하는 함수 2.cpp">
+      <Filter>소스 파일\4 - 4. const, static</Filter>
+    </ClCompile>
+    <ClCompile Include="const 함수.cpp">
+      <Filter>소스 파일\4 - 4. const, static</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 클래스를 만들자.cpp">
+      <Filter>소스 파일\4 - 5. 내가 만드는 String 클래스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
