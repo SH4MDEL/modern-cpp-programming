@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\4 - 5. 내가 만드는 String 클래스">
       <UniqueIdentifier>{38a91133-0f36-4e3f-92f1-cf3a60361551}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\4 - 6. explicit, mutable">
+      <UniqueIdentifier>{f3cce595-59b1-4081-983d-a3c61a9fc9ab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -107,6 +110,12 @@
     </ClCompile>
     <ClCompile Include="문자열 클래스를 만들자.cpp">
       <Filter>소스 파일\4 - 5. 내가 만드는 String 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="explicit.cpp">
+      <Filter>소스 파일\4 - 6. explicit, mutable</Filter>
+    </ClCompile>
+    <ClCompile Include="mutable.cpp">
+      <Filter>소스 파일\4 - 6. explicit, mutable</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
