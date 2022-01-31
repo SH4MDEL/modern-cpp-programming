@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\4 - 6. explicit, mutable">
       <UniqueIdentifier>{f3cce595-59b1-4081-983d-a3c61a9fc9ab}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\5 - 1. 연산자 오버로딩">
+      <UniqueIdentifier>{b8d3d29e-64d4-46dd-bf8e-561a5bd88d92}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -116,6 +119,15 @@
     </ClCompile>
     <ClCompile Include="mutable.cpp">
       <Filter>소스 파일\4 - 6. explicit, mutable</Filter>
+    </ClCompile>
+    <ClCompile Include="== 연산자 오버로딩.cpp">
+      <Filter>소스 파일\5 - 1. 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="Complex number 클래스.cpp">
+      <Filter>소스 파일\5 - 1. 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열로 Complex 수와 덧셈하기.cpp">
+      <Filter>소스 파일\5 - 1. 연산자 오버로딩</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
