@@ -43,6 +43,12 @@
     <Filter Include="소스 파일\5 - 1. 연산자 오버로딩">
       <UniqueIdentifier>{b8d3d29e-64d4-46dd-bf8e-561a5bd88d92}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\5 - 2. 입출력, 첨자, 타입변환, 증감 연산자 오버로딩">
+      <UniqueIdentifier>{a06f587f-16b1-4727-a391-87ef64e21a8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5 - 3. 연산자 오버로딩 프로젝트">
+      <UniqueIdentifier>{8acc3a1f-b538-44e0-b6c7-43d4ce32de74}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -128,6 +134,30 @@
     </ClCompile>
     <ClCompile Include="문자열로 Complex 수와 덧셈하기.cpp">
       <Filter>소스 파일\5 - 1. 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="friend 키워드.cpp">
+      <Filter>소스 파일\5 - 2. 입출력, 첨자, 타입변환, 증감 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="이항 연산자.cpp">
+      <Filter>소스 파일\5 - 2. 입출력, 첨자, 타입변환, 증감 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="입출력 연산자 오버로딩 하기.cpp">
+      <Filter>소스 파일\5 - 2. 입출력, 첨자, 타입변환, 증감 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="첨자 연산자 (operator[]).cpp">
+      <Filter>소스 파일\5 - 2. 입출력, 첨자, 타입변환, 증감 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="int Wrapper 클래스 - 타입 변환 연산자.cpp">
+      <Filter>소스 파일\5 - 2. 입출력, 첨자, 타입변환, 증감 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="전위, 후위 증감 연산자.cpp">
+      <Filter>소스 파일\5 - 2. 입출력, 첨자, 타입변환, 증감 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="C++ 스타일의 캐스팅.cpp">
+      <Filter>소스 파일\5 - 3. 연산자 오버로딩 프로젝트</Filter>
+    </ClCompile>
+    <ClCompile Include="N차원 배열 만들기.cpp">
+      <Filter>소스 파일\5 - 3. 연산자 오버로딩 프로젝트</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
