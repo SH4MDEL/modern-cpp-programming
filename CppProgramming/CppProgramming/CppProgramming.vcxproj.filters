@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\5 - 3. 연산자 오버로딩 프로젝트">
       <UniqueIdentifier>{8acc3a1f-b538-44e0-b6c7-43d4ce32de74}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\6 - 1. 상속">
+      <UniqueIdentifier>{804625e8-7dff-4c1e-a85d-cae22f08d80f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -158,6 +161,15 @@
     </ClCompile>
     <ClCompile Include="N차원 배열 만들기.cpp">
       <Filter>소스 파일\5 - 3. 연산자 오버로딩 프로젝트</Filter>
+    </ClCompile>
+    <ClCompile Include="표준 string 클래스.cpp">
+      <Filter>소스 파일\6 - 1. 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="사원 관리 프로그램.cpp">
+      <Filter>소스 파일\6 - 1. 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="상속 (Inheritance).cpp">
+      <Filter>소스 파일\6 - 1. 상속</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
