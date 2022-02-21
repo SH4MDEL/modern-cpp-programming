@@ -192,5 +192,11 @@
     <ClCompile Include="virtual 소멸자.cpp">
       <Filter>소스 파일\6 - 3. 가상 함수와 상속</Filter>
     </ClCompile>
+    <ClCompile Include="레퍼런스로 상속.cpp">
+      <Filter>소스 파일\6 - 3. 가상 함수와 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="순수 가상 함수(pure virtual function)와 추상 클래스(abstract class).cpp">
+      <Filter>소스 파일\6 - 3. 가상 함수와 상속</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
