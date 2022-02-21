@@ -52,6 +52,12 @@
     <Filter Include="소스 파일\6 - 1. 상속">
       <UniqueIdentifier>{804625e8-7dff-4c1e-a85d-cae22f08d80f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\6 - 2. 가상 함수와 다형성">
+      <UniqueIdentifier>{fad178b3-0e60-4c44-9921-aa1c45114996}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6 - 3. 가상 함수와 상속">
+      <UniqueIdentifier>{a11fe4cf-0223-4e2a-bba3-c50d42e9647d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -170,6 +176,21 @@
     </ClCompile>
     <ClCompile Include="상속 (Inheritance).cpp">
       <Filter>소스 파일\6 - 1. 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="오버라이딩.cpp">
+      <Filter>소스 파일\6 - 2. 가상 함수와 다형성</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual 키워드.cpp">
+      <Filter>소스 파일\6 - 2. 가상 함수와 다형성</Filter>
+    </ClCompile>
+    <ClCompile Include="override 키워드.cpp">
+      <Filter>소스 파일\6 - 2. 가상 함수와 다형성</Filter>
+    </ClCompile>
+    <ClCompile Include="Employee 문제.cpp">
+      <Filter>소스 파일\6 - 2. 가상 함수와 다형성</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual 소멸자.cpp">
+      <Filter>소스 파일\6 - 3. 가상 함수와 상속</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
