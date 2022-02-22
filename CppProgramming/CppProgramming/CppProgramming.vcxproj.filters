@@ -61,6 +61,12 @@
     <Filter Include="소스 파일\7 - 1. istream, ostream">
       <UniqueIdentifier>{34d7e55d-3565-430b-b1a5-ee31a50abb05}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\7 - 2. ifstream, ofstream, stringstream">
+      <UniqueIdentifier>{1a1b784a-df14-42fe-992e-53fc6c2f140f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\8 - 1. Excel 1">
+      <UniqueIdentifier>{1ea15195-038b-4f9c-a2c1-af0e1e73af5a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -212,6 +218,12 @@
     </ClCompile>
     <ClCompile Include="스트림 버퍼.cpp">
       <Filter>소스 파일\7 - 1. istream, ostream</Filter>
+    </ClCompile>
+    <ClCompile Include="fstream.cpp">
+      <Filter>소스 파일\7 - 2. ifstream, ofstream, stringstream</Filter>
+    </ClCompile>
+    <ClCompile Include="myExcel.cpp">
+      <Filter>소스 파일\8 - 1. Excel 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
