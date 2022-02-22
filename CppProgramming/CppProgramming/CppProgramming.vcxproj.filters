@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\6 - 3. 가상 함수와 상속">
       <UniqueIdentifier>{a11fe4cf-0223-4e2a-bba3-c50d42e9647d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\7 - 1. istream, ostream">
+      <UniqueIdentifier>{34d7e55d-3565-430b-b1a5-ee31a50abb05}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -200,6 +203,15 @@
     </ClCompile>
     <ClCompile Include="다중 상속(multiple inheritance).cpp">
       <Filter>소스 파일\6 - 3. 가상 함수와 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="istream 클래스.cpp">
+      <Filter>소스 파일\7 - 1. istream, ostream</Filter>
+    </ClCompile>
+    <ClCompile Include="형식 플래그와 조작자.cpp">
+      <Filter>소스 파일\7 - 1. istream, ostream</Filter>
+    </ClCompile>
+    <ClCompile Include="스트림 버퍼.cpp">
+      <Filter>소스 파일\7 - 1. istream, ostream</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
