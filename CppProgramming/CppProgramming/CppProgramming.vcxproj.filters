@@ -222,8 +222,34 @@
     <ClCompile Include="fstream.cpp">
       <Filter>소스 파일\7 - 2. ifstream, ofstream, stringstream</Filter>
     </ClCompile>
-    <ClCompile Include="myExcel.cpp">
+    <ClCompile Include="utils.cpp">
       <Filter>소스 파일\8 - 1. Excel 1</Filter>
     </ClCompile>
+    <ClCompile Include="Cell.cpp">
+      <Filter>소스 파일\8 - 1. Excel 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Table.cpp">
+      <Filter>소스 파일\8 - 1. Excel 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Table_TxtTable.cpp">
+      <Filter>소스 파일\8 - 1. Excel 1</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>소스 파일\8 - 1. Excel 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>소스 파일\8 - 1. Excel 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Table.h">
+      <Filter>소스 파일\8 - 1. Excel 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Table_TxtTable.h">
+      <Filter>소스 파일\8 - 1. Excel 1</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
