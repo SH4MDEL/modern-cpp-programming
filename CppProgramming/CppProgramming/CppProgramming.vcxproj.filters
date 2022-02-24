@@ -234,6 +234,9 @@
     <ClCompile Include="Table_TxtTable.cpp">
       <Filter>소스 파일\8 - 1. Excel 1</Filter>
     </ClCompile>
+    <ClCompile Include="파일 전체 읽기.cpp">
+      <Filter>소스 파일\7 - 2. ifstream, ofstream, stringstream</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
