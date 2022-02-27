@@ -67,6 +67,9 @@
     <Filter Include="소스 파일\8 - 1. Excel 1">
       <UniqueIdentifier>{1ea15195-038b-4f9c-a2c1-af0e1e73af5a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\9 - 1. C++ template">
+      <UniqueIdentifier>{30e50e70-1573-4028-9024-45401eaa60ae}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -236,6 +239,24 @@
     </ClCompile>
     <ClCompile Include="파일 전체 읽기.cpp">
       <Filter>소스 파일\7 - 2. ifstream, ofstream, stringstream</Filter>
+    </ClCompile>
+    <ClCompile Include="C++ template.cpp">
+      <Filter>소스 파일\9 - 1. C++ template</Filter>
+    </ClCompile>
+    <ClCompile Include="템플릿 특수화(template specialization).cpp">
+      <Filter>소스 파일\9 - 1. C++ template</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 템플릿(Function template).cpp">
+      <Filter>소스 파일\9 - 1. C++ template</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 객체(funtion object functor)의 도입cpp.cpp">
+      <Filter>소스 파일\9 - 1. C++ template</Filter>
+    </ClCompile>
+    <ClCompile Include="타입이 아닌 템플릿 인자(non-type template arguments).cpp">
+      <Filter>소스 파일\9 - 1. C++ template</Filter>
+    </ClCompile>
+    <ClCompile Include="디폴트 템플릿 인자.cpp">
+      <Filter>소스 파일\9 - 1. C++ template</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
