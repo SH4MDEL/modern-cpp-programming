@@ -70,6 +70,9 @@
     <Filter Include="소스 파일\9 - 1. C++ template">
       <UniqueIdentifier>{30e50e70-1573-4028-9024-45401eaa60ae}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\9 - 2. 가변 길이 템플릿%28Variadic template%29">
+      <UniqueIdentifier>{bb3521a0-d708-4348-93e6-c364b4820c68}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -257,6 +260,15 @@
     </ClCompile>
     <ClCompile Include="디폴트 템플릿 인자.cpp">
       <Filter>소스 파일\9 - 1. C++ template</Filter>
+    </ClCompile>
+    <ClCompile Include="가변 길이 템플릿.cpp">
+      <Filter>소스 파일\9 - 2. 가변 길이 템플릿%28Variadic template%29</Filter>
+    </ClCompile>
+    <ClCompile Include="임의의 개수의 문자열을 합치는 함수.cpp">
+      <Filter>소스 파일\9 - 2. 가변 길이 템플릿%28Variadic template%29</Filter>
+    </ClCompile>
+    <ClCompile Include="sizeof.cpp">
+      <Filter>소스 파일\9 - 2. 가변 길이 템플릿%28Variadic template%29</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
