@@ -73,6 +73,9 @@
     <Filter Include="소스 파일\9 - 2. 가변 길이 템플릿%28Variadic template%29">
       <UniqueIdentifier>{bb3521a0-d708-4348-93e6-c364b4820c68}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\9 - 3. 템플릿 메타 프로그래밍%28Template Meta programming%29">
+      <UniqueIdentifier>{8fb712cc-2f0c-47e5-870d-2703a6bac9af}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="namespace.cpp">
@@ -269,6 +272,18 @@
     </ClCompile>
     <ClCompile Include="sizeof.cpp">
       <Filter>소스 파일\9 - 2. 가변 길이 템플릿%28Variadic template%29</Filter>
+    </ClCompile>
+    <ClCompile Include="나만의 array 구현.cpp">
+      <Filter>소스 파일\9 - 3. 템플릿 메타 프로그래밍%28Template Meta programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="템플릿 메타 프로그래밍 (Template Meta Programming).cpp">
+      <Filter>소스 파일\9 - 3. 템플릿 메타 프로그래밍%28Template Meta programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef.cpp">
+      <Filter>소스 파일\9 - 3. 템플릿 메타 프로그래밍%28Template Meta programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="유클리드 호제법(gcd).cpp">
+      <Filter>소스 파일\9 - 3. 템플릿 메타 프로그래밍%28Template Meta programming%29</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
