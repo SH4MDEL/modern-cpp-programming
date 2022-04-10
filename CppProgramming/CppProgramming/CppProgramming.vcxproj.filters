@@ -318,6 +318,9 @@
     <ClCompile Include="셋(set).cpp">
       <Filter>소스 파일\10 - 2. STL 셋, 맵, unordered_set, unordered_map</Filter>
     </ClCompile>
+    <ClCompile Include="class in set.cpp">
+      <Filter>소스 파일\10 - 2. STL 셋, 맵, unordered_set, unordered_map</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">

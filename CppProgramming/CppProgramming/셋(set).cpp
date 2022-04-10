@@ -15,6 +15,7 @@ int main()
 	std::set<int> s;
 	s.insert(10);
 	s.insert(50);
+	s.insert(30);
 	s.insert(40);
 	s.insert(30);
 	s.insert(20);
