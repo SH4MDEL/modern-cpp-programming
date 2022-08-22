@@ -12,6 +12,7 @@ int sum_all(int num, Ints... nums)
 template <typename... Ints>
 double average(Ints... nums)
 {
+	// 파라미터 팩의 sizeof...는 전체 인자의 개수 리턴
 	return static_cast<double>(sum_all(nums...)) / sizeof...(nums);
 }
 
