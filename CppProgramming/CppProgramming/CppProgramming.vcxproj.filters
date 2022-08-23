@@ -79,11 +79,11 @@
     <Filter Include="소스 파일\9 - 4. 템플릿 메타 프로그래밍 2%28Template Meta Programming 2%29">
       <UniqueIdentifier>{ff4dfd17-b047-4167-b22b-adefbc6c1693}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\10 - 1. STL 벡터, 리스트, 덱">
-      <UniqueIdentifier>{0ab6c54a-8716-4e5c-a4d2-7803f50834c9}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\10 - 2. STL 셋, 맵, unordered_set, unordered_map">
+    <Filter Include="소스 파일\10 - 2. STL set, map, unordered_set, unordered_map">
       <UniqueIdentifier>{c653b31a-b366-4ad0-ad80-4d60df7f5938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10 - 1. STL vector, list, deque">
+      <UniqueIdentifier>{0ab6c54a-8716-4e5c-a4d2-7803f50834c9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -282,47 +282,50 @@
     <ClCompile Include="9 - 2. 3. sizeof.cpp">
       <Filter>소스 파일\9 - 2. 가변 길이 템플릿%28Variadic template%29</Filter>
     </ClCompile>
-    <ClCompile Include="나만의 array 구현.cpp">
+    <ClCompile Include="9 - 3. 1. 나만의 array 구현.cpp">
       <Filter>소스 파일\9 - 3. 템플릿 메타 프로그래밍%28Template Meta programming%29</Filter>
     </ClCompile>
-    <ClCompile Include="템플릿 메타 프로그래밍 (Template Meta Programming).cpp">
+    <ClCompile Include="9 - 3. 3. 템플릿 메타 프로그래밍 %28Template Meta Programming%29.cpp">
       <Filter>소스 파일\9 - 3. 템플릿 메타 프로그래밍%28Template Meta programming%29</Filter>
     </ClCompile>
-    <ClCompile Include="typedef.cpp">
+    <ClCompile Include="9 - 3. 2. typedef.cpp">
       <Filter>소스 파일\9 - 3. 템플릿 메타 프로그래밍%28Template Meta programming%29</Filter>
     </ClCompile>
-    <ClCompile Include="유클리드 호제법(gcd).cpp">
+    <ClCompile Include="9 - 3. 4. 유클리드 호제법%28gcd%29.cpp">
       <Filter>소스 파일\9 - 3. 템플릿 메타 프로그래밍%28Template Meta programming%29</Filter>
     </ClCompile>
     <ClCompile Include="is_prime.cpp">
       <Filter>소스 파일\9 - 4. 템플릿 메타 프로그래밍 2%28Template Meta Programming 2%29</Filter>
     </ClCompile>
     <ClCompile Include="반복자(iterator).cpp">
-      <Filter>소스 파일\10 - 1. STL 벡터, 리스트, 덱</Filter>
+      <Filter>소스 파일\10 - 1. STL vector, list, deque</Filter>
     </ClCompile>
     <ClCompile Include="const_iterator.cpp">
-      <Filter>소스 파일\10 - 1. STL 벡터, 리스트, 덱</Filter>
+      <Filter>소스 파일\10 - 1. STL vector, list, deque</Filter>
     </ClCompile>
     <ClCompile Include="reverse_iterator.cpp">
-      <Filter>소스 파일\10 - 1. STL 벡터, 리스트, 덱</Filter>
+      <Filter>소스 파일\10 - 1. STL vector, list, deque</Filter>
     </ClCompile>
     <ClCompile Include="범위 기반 for문.cpp">
-      <Filter>소스 파일\10 - 1. STL 벡터, 리스트, 덱</Filter>
+      <Filter>소스 파일\10 - 1. STL vector, list, deque</Filter>
     </ClCompile>
     <ClCompile Include="리스트(list).cpp">
-      <Filter>소스 파일\10 - 1. STL 벡터, 리스트, 덱</Filter>
+      <Filter>소스 파일\10 - 1. STL vector, list, deque</Filter>
     </ClCompile>
     <ClCompile Include="덱(deque).cpp">
-      <Filter>소스 파일\10 - 1. STL 벡터, 리스트, 덱</Filter>
+      <Filter>소스 파일\10 - 1. STL vector, list, deque</Filter>
     </ClCompile>
-    <ClCompile Include="셋(set).cpp">
-      <Filter>소스 파일\10 - 2. STL 셋, 맵, unordered_set, unordered_map</Filter>
+    <ClCompile Include="10 - 2. 1. 셋%28set%29.cpp">
+      <Filter>소스 파일\10 - 2. STL set, map, unordered_set, unordered_map</Filter>
     </ClCompile>
-    <ClCompile Include="class in set.cpp">
-      <Filter>소스 파일\10 - 2. STL 셋, 맵, unordered_set, unordered_map</Filter>
+    <ClCompile Include="10 - 2. 2. class in set.cpp">
+      <Filter>소스 파일\10 - 2. STL set, map, unordered_set, unordered_map</Filter>
     </ClCompile>
     <ClCompile Include="9 - 2. 4. Fold Expression.cpp">
       <Filter>소스 파일\9 - 2. 가변 길이 템플릿%28Variadic template%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10 - 2. 3. 맵(map).cpp">
+      <Filter>소스 파일\10 - 2. STL set, map, unordered_set, unordered_map</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
