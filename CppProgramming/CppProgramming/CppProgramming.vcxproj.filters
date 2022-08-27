@@ -327,6 +327,15 @@
     <ClCompile Include="10 - 2. 3. 맵(map).cpp">
       <Filter>소스 파일\10 - 2. STL set, map, unordered_set, unordered_map</Filter>
     </ClCompile>
+    <ClCompile Include="10 - 2. 4. multiset, multimap.cpp">
+      <Filter>소스 파일\10 - 2. STL set, map, unordered_set, unordered_map</Filter>
+    </ClCompile>
+    <ClCompile Include="10 - 2. 5. unordered_set, unordered_map.cpp">
+      <Filter>소스 파일\10 - 2. STL set, map, unordered_set, unordered_map</Filter>
+    </ClCompile>
+    <ClCompile Include="10 - 2. 6. using hash.cpp">
+      <Filter>소스 파일\10 - 2. STL set, map, unordered_set, unordered_map</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="utils.h">
