@@ -85,6 +85,9 @@
     <Filter Include="소스 파일\10 - 1. STL vector, list, deque">
       <UniqueIdentifier>{0ab6c54a-8716-4e5c-a4d2-7803f50834c9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\12 - 1. rvalue reference, move constructor">
+      <UniqueIdentifier>{9616a2bd-0652-4bd8-bd94-543ac76bd502}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1. 1. namespace.cpp">
@@ -335,6 +338,9 @@
     </ClCompile>
     <ClCompile Include="10 - 2. 6. using hash.cpp">
       <Filter>소스 파일\10 - 2. STL set, map, unordered_set, unordered_map</Filter>
+    </ClCompile>
+    <ClCompile Include="12 - 1. 1. 복사 생략(Copy Elision).cpp">
+      <Filter>소스 파일\12 - 1. rvalue reference, move constructor</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
