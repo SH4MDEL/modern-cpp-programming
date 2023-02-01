@@ -88,6 +88,9 @@
     <Filter Include="소스 파일\12 - 1. rvalue reference, move constructor">
       <UniqueIdentifier>{9616a2bd-0652-4bd8-bd94-543ac76bd502}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\14. function">
+      <UniqueIdentifier>{9e9b548b-e79a-475c-80be-781f662322b6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1. 1. namespace.cpp">
@@ -347,6 +350,21 @@
     </ClCompile>
     <ClCompile Include="12 - 1. 3. 우측값 레퍼런스(rvalue reference).cpp">
       <Filter>소스 파일\12 - 1. rvalue reference, move constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="14. 1. callable.cpp">
+      <Filter>소스 파일\14. function</Filter>
+    </ClCompile>
+    <ClCompile Include="14. 2. std function 1.cpp">
+      <Filter>소스 파일\14. function</Filter>
+    </ClCompile>
+    <ClCompile Include="14. 3. std function 2.cpp">
+      <Filter>소스 파일\14. function</Filter>
+    </ClCompile>
+    <ClCompile Include="14. 4. mem_fn.cpp">
+      <Filter>소스 파일\14. function</Filter>
+    </ClCompile>
+    <ClCompile Include="14. 5. bind.cpp">
+      <Filter>소스 파일\14. function</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
