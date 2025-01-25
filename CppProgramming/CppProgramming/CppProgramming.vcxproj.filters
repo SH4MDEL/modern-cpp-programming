@@ -91,6 +91,12 @@
     <Filter Include="소스 파일\14. function">
       <UniqueIdentifier>{9e9b548b-e79a-475c-80be-781f662322b6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\15 - 1. thread">
+      <UniqueIdentifier>{320e5976-6b20-4026-96e9-25ab660d2b05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\15 - 2. mutex">
+      <UniqueIdentifier>{39c70ee7-e315-43f4-8bf2-3d91b7235084}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1. 1. namespace.cpp">
@@ -365,6 +371,24 @@
     </ClCompile>
     <ClCompile Include="14. 5. bind.cpp">
       <Filter>소스 파일\14. function</Filter>
+    </ClCompile>
+    <ClCompile Include="15 - 1. 1. thread.cpp">
+      <Filter>소스 파일\15 - 1. thread</Filter>
+    </ClCompile>
+    <ClCompile Include="15 - 1. 2. thread.cpp">
+      <Filter>소스 파일\15 - 1. thread</Filter>
+    </ClCompile>
+    <ClCompile Include="15 - 2. 1. Race Condition.cpp">
+      <Filter>소스 파일\15 - 2. mutex</Filter>
+    </ClCompile>
+    <ClCompile Include="15 - 2. 2. mutex.cpp">
+      <Filter>소스 파일\15 - 2. mutex</Filter>
+    </ClCompile>
+    <ClCompile Include="15 - 2. 3. deadlock.cpp">
+      <Filter>소스 파일\15 - 2. mutex</Filter>
+    </ClCompile>
+    <ClCompile Include="15 - 2. 4. Producer and Consumer.cpp">
+      <Filter>소스 파일\15 - 2. mutex</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

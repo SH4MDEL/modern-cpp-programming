@@ -21,5 +21,17 @@
     <ClCompile Include="Concept.cpp">
       <Filter>소스 파일\1. 4대 천왕</Filter>
     </ClCompile>
+    <ClCompile Include="Module.cpp">
+      <Filter>소스 파일\1. 4대 천왕</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.ixx">
+      <Filter>소스 파일\1. 4대 천왕</Filter>
+    </ClCompile>
+    <ClCompile Include="Math_Time.ixx">
+      <Filter>소스 파일\1. 4대 천왕</Filter>
+    </ClCompile>
+    <ClCompile Include="Math_Partition.ixx">
+      <Filter>소스 파일\1. 4대 천왕</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
